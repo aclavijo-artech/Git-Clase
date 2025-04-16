@@ -1,4 +1,7 @@
 # Participante
 
-- [X] [Andrés Clavijo](Participantes/Andres-Clavijo.md)  
+- [X] [Andrés Clavijo](Participantes/Andres-Clavijo.md) 
+- [x] [Test](Participantes/test)
+- [X] [Emanuel Alderete](Participantes/Emanuel-Alderete.md)
+- [X] [Gerónimo Riesco](Participantes/Geronimo-Riesco.md)
 - [X] [Lucas Porcelli](Participantes/Lucas-Porcelli.md)
