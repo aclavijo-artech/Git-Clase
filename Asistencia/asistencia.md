@@ -5,5 +5,8 @@
 - [X] [Juan Jose Salazar](Participantes/Juan-Jose-Salazar.md)  
 - [x] [Joaquín Nuñez](Participantes/Joaquin-Nunez.md)
 - [X] [Mauro Benitez](Participantes/Mauro-Benitez.md) 
+- [x] [Joaquín Nuñez](Participantes/Joaquin-Nunez.md)
 - [X] [Emanuel Alderete](Participantes/Emanuel-Alderete.md)
 - [X] [Gerónimo Riesco](Participantes/Geronimo-Riesco.md)
+- [X] [Lucas Porcelli](Participantes/Lucas-Porcelli.md)
+
