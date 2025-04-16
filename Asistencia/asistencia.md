@@ -5,6 +5,7 @@
 - [x] [Fabian Diz](Participantes/Fabian-Diz.md)
 - [X] [Juan Jose Salazar](Participantes/Juan-Jose-Salazar.md)  
 - [x] [Joaquín Nuñez](Participantes/Joaquin-Nunez.md)
+- [X] [Emanuel Alderete](Participantes/Emanuel-Alderete.md)
 - [X] [Mauro Benitez](Participantes/Mauro-Benitez.md) 
 - [x] [Joaquín Nuñez](Participantes/Joaquin-Nunez.md)
 - [X] [Emanuel Alderete](Participantes/Emanuel-Alderete.md)
