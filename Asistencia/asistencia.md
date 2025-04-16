@@ -7,4 +7,5 @@
 =======
 - [X] [Emanuel Alderete](Participantes/Emanuel-Alderete.md)
 - [X] [Gerónimo Riesco](Participantes/Geronimo-Riesco.md)
+- [X] [Hernan PArietti]
 >>>>>>> c467ba2aa810deff21a7ce1010029ccf06c6cf22
