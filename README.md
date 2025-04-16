@@ -1,7 +1,7 @@
-# Hello Everybody
+# 🚀 Curso de Git
 
-- [X] Andrés Clavijo
-- [X] Ariel Muñoz
-- [X] Eduardo Gasparotto
-- [X] Alan MF
-- [X] Otro
+¡Bienvenidos al **Curso de Git**!  
+Espero que lo disfruten tanto como yo disfruté prepararlo. 💻✨
+
+> Gracias por participar y ser parte de esta experiencia 🥳  
+¡A codear se ha dicho! 💥
