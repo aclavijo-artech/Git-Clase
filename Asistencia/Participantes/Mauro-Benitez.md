@@ -1,4 +1,4 @@
-# 🙋‍♀️ Asistencia de Andrés Clavijo
+# 🙋‍♀️ Asistencia de Mauro Benitez
 
 ✅ Participación confirmada en el ejercicio de Git.  
 📅 Fecha: 16/04/2025
@@ -6,9 +6,9 @@
 ---
 
 - [X] ¿Pude crear una rama?
-- Nombre de la Rama
-    📍 Rama: `Andres-Clavijo`
+- mbenitez
+    📍 Rama: `Mauro-Benitez`
 
 ## 💬 Comentario:
 
-"😊 Me dio mucha alegría poder compartir esta capacitación con ustedes. Aprendí también en el proceso, ¡gracias por su participación! 🙏💻"
+"Excelente explicación Andi!! Muchas gracias por enseñarnos de una manera super práctica <3"
